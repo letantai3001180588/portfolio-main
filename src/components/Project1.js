@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import page1 from "../public/img/page1.png";
-import cssIco from "../public/img/css.png";
-import reactIco from "../public/img/react.png";
 import gitIco from "../public/img/githubIco.png";
-import liveIco from "../public/img/live.png";
-import bootIco from "../public/img/bootstrap.png";
 import mongo from "../public/img/mongodb.png";
+import reactIco from "../public/img/react.png";
+// import cssIco from "../public/img/css.png";
+// import liveIco from "../public/img/live.png";
+// import bootIco from "../public/img/bootstrap.png";
 
 export default function Project1() {
   const [html, setHtml] = useState("");

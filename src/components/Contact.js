@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import Map from "./Map";
+// import Map from "./Map";
 import mailIco from "../public/img/mailIco.png";
 import emailjs from "@emailjs/browser";
 

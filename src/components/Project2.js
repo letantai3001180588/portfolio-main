@@ -2,10 +2,9 @@ import React, { useState } from "react";
 import page2 from "../public/img/page2.png";
 import bts from "../public/img/bootstrap.png";
 import reactIco from "../public/img/react.png";
-
 import gitIco from "../public/img/githubIco.png";
-import liveIco from "../public/img/live.png";
-import firebaseIco from "../public/img/firebase.png";
+// import liveIco from "../public/img/live.png";
+// import firebaseIco from "../public/img/firebase.png";
 
 export default function Project2() {
 

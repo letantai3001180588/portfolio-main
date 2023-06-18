@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import page3 from "../public/img/page3.png";
-import htmlIco from "../public/img/html.png";
-import bts from "../public/img/bootstrap.png";
-import jsIco from "../public/img/js.png";
-import bootIco from "../public/img/bootstrap.png";
 import reactIco from "../public/img/react.png";
-import threeIco from "../public/img/three.png";
 import gitIco from "../public/img/githubIco.png";
-import liveIco from "../public/img/live.png";
-import firebaseIco from "../public/img/firebase.png";
+import bts from "../public/img/bootstrap.png";
+// import htmlIco from "../public/img/html.png";
+// import jsIco from "../public/img/js.png";
+// import bootIco from "../public/img/bootstrap.png";
+// import threeIco from "../public/img/three.png";
+// import liveIco from "../public/img/live.png";
+// import firebaseIco from "../public/img/firebase.png";
 
 export default function Project3() {
   return (
